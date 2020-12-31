@@ -1,3 +1,3 @@
 # Jsp_Servlet_MVC_board
 ScreenShot <br>
-![ex_screenshot](./img/screenshot.png)
+![ex_screenshot](./JspServlMVCboard_baekd.png)
